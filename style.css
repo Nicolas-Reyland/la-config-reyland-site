@@ -29,3 +29,13 @@ h1 {
 #install-line > pre > span {
     color: #12490f
 }
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    margin: 2em 0;
+    color: aliceblue;
+    font-size: 0.8em;
+}
